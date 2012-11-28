@@ -1,0 +1,1370 @@
+2012-11-22 06:30:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:30:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:31:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:08 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:40 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:40 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:40 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:40 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:35:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:36:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:37:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:39:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:44:59 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:45:00 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:45:00 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:45:00 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:45:00 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:45:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:45:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:46:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:47:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:13 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:14 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:14 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:14 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:15 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:15 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:15 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:15 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:48:47 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:48:51 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:48:52 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:48:52 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:48:56 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:49:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:49:23 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:50:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:50:41 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:51:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:51:54 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:52:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:52:12 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:53:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:54:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:55:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:55:23 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:55:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:55:40 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:55:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:55:56 Error: [MissingActionException] Action ProductsController::searchjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-22 06:56:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:38 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:56:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:57:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 06:58:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:04:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:04:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:07:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:28:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:29:26 Error: [MissingTableException] Table products for model Product was not found in datasource default.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(3179): Model->setSource('products')
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(1301): Model->getDataSource()
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\Helper\FormHelper.php(197): Model->schema()
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\Helper\FormHelper.php(438): FormHelper->_introspectModel('Product', 'fields')
+#4 C:\xampp\htdocs\cakephp-autocomplete\app\View\Layouts\default.ctp(48): FormHelper->create('Product', Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(921): include('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(884): View->_evaluate('C:\xampp\htdocs...', Array)
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(540): View->_render('C:\xampp\htdocs...')
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(484): View->renderLayout('', 'default')
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#10 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#11 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-11-22 07:32:37 Error: [MissingTableException] Table products for model Product was not found in datasource default.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(3179): Model->setSource('products')
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(1301): Model->getDataSource()
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\Helper\FormHelper.php(197): Model->schema()
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\Helper\FormHelper.php(438): FormHelper->_introspectModel('Product', 'fields')
+#4 C:\xampp\htdocs\cakephp-autocomplete\app\View\Layouts\default.ctp(48): FormHelper->create('Product', Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(921): include('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(884): View->_evaluate('C:\xampp\htdocs...', Array)
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(540): View->_render('C:\xampp\htdocs...')
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(484): View->renderLayout('', 'default')
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#10 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#11 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-11-22 07:32:52 Error: [MissingTableException] Table products for model Product was not found in datasource default.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(3179): Model->setSource('products')
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(1301): Model->getDataSource()
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\Helper\FormHelper.php(197): Model->schema()
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\Helper\FormHelper.php(438): FormHelper->_introspectModel('Product', 'fields')
+#4 C:\xampp\htdocs\cakephp-autocomplete\app\View\Layouts\default.ctp(48): FormHelper->create('Product', Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(921): include('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(884): View->_evaluate('C:\xampp\htdocs...', Array)
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(540): View->_render('C:\xampp\htdocs...')
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(484): View->renderLayout('', 'default')
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#10 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#11 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-11-22 07:34:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:37:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:40:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:47 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:41:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:42:54 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:43:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:24 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:45 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:44:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:45:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:46:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:47:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:28 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:48:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:11 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:49:19 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:18 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:51:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:53:42 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 07:55:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:02:51 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:06:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:20:15 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:20:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:21:29 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:22:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:22:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:23:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 08:23:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 10:39:58 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 10:56:38 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 10:57:32 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 10:57:36 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 10:58:18 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:00:23 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:05:41 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:06:30 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:07:40 Error: Fatal Error (4): syntax error, unexpected '>' in [C:\xampp\htdocs\cakephp-autocomplete\app\View\Layouts\default.ctp, line 26]
+2012-11-22 11:07:40 Error: [FatalErrorException] syntax error, unexpected '>'
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 26, Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 26, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-22 11:07:55 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:08:30 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:14:18 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:14:51 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:15:56 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:16:03 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:22:34 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:22:41 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:26:38 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:26:44 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:26:48 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:26:54 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:28:48 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:28:54 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:29:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:29:19 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:29:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:29:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:29:29 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:29:33 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:32:20 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:32:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:41:19 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-22 11:41:23 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:49:19 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:49:24 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:50:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:50:28 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:51:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:51:27 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:51:37 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:51:43 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 08:59:08 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:00:19 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:00:29 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:01:58 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:02:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:02:06 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:02:06 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:10:39 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:11:39 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:45:05 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-23 09:46:14 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+#0 /home/u357518260/public_html/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 09:25:48 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shop.countries' doesn't exist
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\Database\Mysql.php(291): DboSource->_execute('SHOW FULL COLUM...')
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(1304): Mysql->describe(Object(Country))
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\Helper\FormHelper.php(197): Model->schema()
+#4 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\Helper\FormHelper.php(438): FormHelper->_introspectModel('Country', 'fields')
+#5 C:\xampp\htdocs\cakephp-autocomplete\app\View\Layouts\default.ctp(24): FormHelper->create('Country', Array)
+#6 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(921): include('C:\xampp\htdocs...')
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(884): View->_evaluate('C:\xampp\htdocs...', Array)
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(540): View->_render('C:\xampp\htdocs...')
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\View\View.php(484): View->renderLayout('', 'default')
+#10 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#11 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#12 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#13 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2012-11-27 09:44:28 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\xampp\htdocs\cakephp-autocomplete\app\View\Countries\index.ctp, line 5]
+2012-11-27 09:44:28 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 5, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-27 10:28:09 Error: Fatal Error (4): syntax error, unexpected 'ountries' (T_STRING) in [C:\xampp\htdocs\cakephp-autocomplete\app\Controller\CountriesController.php, line 31]
+2012-11-27 10:28:09 Error: [FatalErrorException] syntax error, unexpected 'ountries' (T_STRING)
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 31)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 31, Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 31, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-27 10:41:42 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'City.name' in 'field list'
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(425): DboSource->_execute('SELECT `City`.`...', Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `City`.`...', Array, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(1080): DboSource->fetchAll('SELECT `City`.`...', false)
+#4 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(2630): DboSource->read(Object(Country), Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\app\Controller\CountriesController.php(53): Model->find('all', Array)
+#6 [internal function]: CountriesController->cityjson()
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CountriesController), Array)
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-11-27 10:42:55 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'City.name' in 'field list'
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(425): DboSource->_execute('SELECT `City`.`...', Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `City`.`...', Array, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(1080): DboSource->fetchAll('SELECT `City`.`...', false)
+#4 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(2630): DboSource->read(Object(Country), Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\app\Controller\CountriesController.php(54): Model->find('all', Array)
+#6 [internal function]: CountriesController->cityjson()
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CountriesController), Array)
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-11-27 10:57:42 Error: Fatal Error (4): syntax error, unexpected end of file in [C:\xampp\htdocs\cakephp-autocomplete\app\Controller\CountriesController.php, line 68]
+2012-11-27 10:57:42 Error: [FatalErrorException] syntax error, unexpected end of file
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-28 05:38:35 Error: [MissingActionException] Action UsersController::serachjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 05:38:37 Error: [MissingActionException] Action UsersController::serachjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 05:40:38 Error: [MissingActionException] Action UsersController::serachjson() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 05:51:55 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nama' in 'where clause'
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(425): DboSource->_execute('SELECT `Country...', Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Country...', Array, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(1080): DboSource->fetchAll('SELECT `Country...', false)
+#4 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(2630): DboSource->read(Object(Country), Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\app\Controller\CountriesController.php(14): Model->find('all', Array)
+#6 [internal function]: CountriesController->getcountry()
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CountriesController), Array)
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-11-28 06:00:23 Error: [MissingActionException] Action CountriesController::countries() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 06:00:49 Error: [MissingActionException] Action CountriesController::countries() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 06:01:00 Error: [MissingActionException] Action CountriesController::countries() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 06:03:08 Error: [MissingActionException] Action CountriesController::countries() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 06:03:22 Error: [MissingControllerException] Controller class GetcountryController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-28 06:03:45 Error: [MissingControllerException] Controller class GetcountryController could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-28 06:06:33 Error: [MissingActionException] Action CountriesController::countries() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 06:13:56 Error: [MissingActionException] Action CountriesController::countries() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 06:26:57 Error: [MissingActionException] Action CountriesController::users() could not be found.
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-11-28 06:29:19 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\cakephp-autocomplete\app\Controller\UsersController.php, line 13]
+2012-11-28 06:29:19 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-28 06:29:28 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\xampp\htdocs\cakephp-autocomplete\app\Controller\UsersController.php, line 13]
+2012-11-28 06:29:28 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\xampp\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\xampp\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-28 06:30:52 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `City`.`name` LIKE '%co%'' at line 1
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(425): DboSource->_execute('SELECT `City`.`...', Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `City`.`...', Array, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(1080): DboSource->fetchAll('SELECT `City`.`...', false)
+#4 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(2630): DboSource->read(Object(City), Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\app\Controller\CountriesController.php(32): Model->find('all', Array)
+#6 [internal function]: CountriesController->getcity()
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CountriesController), Array)
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-11-28 06:30:53 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `City`.`name` LIKE '%con%'' at line 1
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(425): DboSource->_execute('SELECT `City`.`...', Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `City`.`...', Array, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(1080): DboSource->fetchAll('SELECT `City`.`...', false)
+#4 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(2630): DboSource->read(Object(City), Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\app\Controller\CountriesController.php(32): Model->find('all', Array)
+#6 [internal function]: CountriesController->getcity()
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CountriesController), Array)
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-11-28 06:30:59 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `City`.`name` LIKE '%ja%'' at line 1
+#0 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(425): DboSource->_execute('SELECT `City`.`...', Array)
+#2 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `City`.`...', Array, Array)
+#3 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Datasource\DboSource.php(1080): DboSource->fetchAll('SELECT `City`.`...', false)
+#4 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Model\Model.php(2630): DboSource->read(Object(City), Array)
+#5 C:\xampp\htdocs\cakephp-autocomplete\app\Controller\CountriesController.php(32): Model->find('all', Array)
+#6 [internal function]: CountriesController->getcity()
+#7 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(CountriesController), Array)
+#8 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\cakephp-autocomplete\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(CountriesController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\xampp\htdocs\cakephp-autocomplete\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
