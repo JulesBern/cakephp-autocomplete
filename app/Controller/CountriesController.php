@@ -25,7 +25,7 @@ class CountriesController extends AppController {
         $this->autoRender=false;   
         $options = array(
             'conditions' => array(
-                "City.country_id=".$this->request->query['negara_id'],
+                "City.country_id=".$this->request->query['country_id'],
                 "City.name LIKE '%".$term."%'"   
             )
         );

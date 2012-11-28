@@ -8,7 +8,7 @@ $(document).ready(function(){
 		}
 	});
 	
-	$( "#negara" ).autocomplete({
+	$( "#country" ).autocomplete({
 		source: Shop.basePath + "countries/getcountry",
 		minLength:2,
 		select: function(event, ui) {
@@ -23,7 +23,7 @@ $(document).ready(function(){
 				url: Shop.basePath + "countries/getcity",
 				dataType: "json",
 				data: {
-					negara_id:$("#cid").val(),
+					country_id:$("#cid").val(),
 					term:$('#city').val()
 				},
 				success: function( data ) {
